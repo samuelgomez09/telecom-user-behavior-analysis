@@ -12,18 +12,17 @@ El objetivo principal es entender cómo los clientes consumen realmente sus serv
 4. **¿Qué patrones clave optimizan la oferta comercial?** Recomendaciones accionables para el diseño de planes de telefonía más atractivos.
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
-* **Lenguaje:** Python 3
+* **Lenguaje:** Python 
 * **Manipulación de Datos:** Pandas, NumPy
 * **Visualización de Datos:** Matplotlib, Seaborn
 * **Entorno de Desarrollo:** Jupyter Notebooks
 
 ## 📁 Estructura del Repositorio
-* `data/`: Carpeta que contiene los archivos base (`plans.csv`, `users_latam.csv`, `usage.csv`) *[Nota: si los datos son privados o muy pesados, se especifica aquí cómo obtenerlos]*.
 * `notebooks/`: Contiene el Jupyter Notebook con el código ordenado paso a paso (limpieza, análisis estadístico, gráficos).
 * `README.md`: Documentación principal del proyecto.
 
 ## ⚙️ Configuración y Requisitos de Instalación
-Para reproducir este análisis localmente, clona este repositorio e instala las librerías necesarias:
+Para reproducir este análisis localmente:
 
 ```bash
 # Clonar el repositorio
